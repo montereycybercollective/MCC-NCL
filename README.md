@@ -9,14 +9,14 @@ The [National Cyber League (NCL)](https://cyberskyline.com/events/ncl) is an onl
 2. [Creating Your Lab](lab-guide.md)
 3. Categories
 
-	- [Open Source Intelligence (OSINT)](categories/osint.md)
-	- [Cryptography](categories/cryptography.md)
-	- [Log Analysis](categories/log-analysis.md)
-	- [Network Traffic Analysis](categories/network-traffic-analysis.md)
-	- [Forensics](categories/forensics.md)
-	- [Password Cracking](categories/password-cracking)
-	- [Enumeration and Exploitation](categories/enumeration-and-exploitation.md)
-	- [Web Application Security](categories/web-application-security.md)
+	- [Open Source Intelligence (OSINT)](guides/categories/osint.md)
+	- [Cryptography](guides/categories/cryptography.md)
+	- [Log Analysis](guides/categories/log-analysis.md)
+	- [Network Traffic Analysis](guides/categories/network-traffic-analysis.md)
+	- [Forensics](guides/categories/forensics.md)
+	- [Password Cracking](guides/categories/password-cracking)
+	- [Enumeration and Exploitation](guides/categories/enumeration-and-exploitation.md)
+	- [Web Application Security](guides/categories/web-application-security.md)
 
 ## Additional Links
 
